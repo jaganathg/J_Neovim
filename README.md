@@ -1,2 +1,2 @@
 # J_Neovim
- My customised neovim setup for C, C++, Python & Rust
+ My customised neovim setup for C, C++, Python & Rust for Mac machine
